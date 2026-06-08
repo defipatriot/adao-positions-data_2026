@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "cron": "adao-positions",
-  "capturedAt": "2026-06-07T01:00:42.707Z",
-  "capturedAtUnix": 1780794042707,
-  "runId": "adao-20260607010042",
+  "capturedAt": "2026-06-08T01:00:36.434Z",
+  "capturedAtUnix": 1780880436434,
+  "runId": "adao-20260608010036",
   "runMode": "scheduled",
-  "currentEpoch": 188,
+  "currentEpoch": 189,
   "status": "ok",
   "stats": {
     "members_count": 46,
@@ -13,9 +13,9 @@
     "council_present": true,
     "council_count": 1
   },
-  "dataFingerprint": "f99ea1934ac0",
-  "previousFingerprint": "9e0fe706eafa",
+  "dataFingerprint": "697b817cfe03",
+  "previousFingerprint": "f99ea1934ac0",
   "dataFreshness": "fresh",
   "consecutiveStuckRuns": 0,
-  "next_expected_run_at": "2026-06-08T02:00:42.707Z"
+  "next_expected_run_at": "2026-06-09T02:00:36.434Z"
 }
