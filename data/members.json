@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-08T01:00:36.434Z",
-  "capturedAtUnix": 1780880436434,
+  "capturedAt": "2026-06-09T01:00:41.025Z",
+  "capturedAtUnix": 1780966841025,
   "epoch": {
     "number": 189,
     "starts_at": "2026-06-08T00:00:00.000Z",
     "ends_at": "2026-06-15T00:00:00.000Z",
-    "progress_pct": 0.6012719907407408
+    "progress_pct": 14.887735945767197
   },
   "primary_source": "daodao_indexer",
   "total_members": 157,
@@ -50,7 +50,7 @@
       "name": "4719",
       "nft_count": 51,
       "vp_pct_of_dao": 3.0778515389257697,
-      "nft_image_url": "https://i.stargaze-apis.com/Al7rDDRZHopZT-W4Z8TYG1tszwULXeKVS5DVLovtfHM/resize:fit:512:::/dpr:2/plain/ipfs://QmQ5693bS6DbRvkXZdFSuuUPhgWz4Qt2DhUkdrk5Ba8sVj",
+      "nft_image_url": null,
       "has_pfpk_profile": true
     },
     {
@@ -306,7 +306,7 @@
       "name": "fastfish343",
       "nft_count": 5,
       "vp_pct_of_dao": 0.30175015087507545,
-      "nft_image_url": "https://i.stargaze-apis.com/LjkSxTAgg6Q-vW6AyAFOohbmfbtZPSCgo5Y-uglirC4/resize:fit:512:::/dpr:2/plain/ipfs://bafybeicbq3ppvshoxi7tpobqbgztdnilpovlxtyhxxmne3lqwomgywekyi/402.png",
+      "nft_image_url": null,
       "has_pfpk_profile": true
     },
     {
@@ -1066,7 +1066,7 @@
       "name": "SJS",
       "nft_count": 1,
       "vp_pct_of_dao": 0.06035003017501509,
-      "nft_image_url": "https://i.stargaze-apis.com/TWoQg57Fr6Lc_OqzcGPcNOHehZ-goJ-WUXrnP0APF-4/resize:fit:512:::/dpr:2/plain/ipfs://QmTEo3JXuWdEFFxxUthCQtWuWMfPtLzvRvSxW6k3r5GbVq/28.png",
+      "nft_image_url": null,
       "has_pfpk_profile": true
     },
     {
@@ -1250,7 +1250,7 @@
       "name": "Rebel_Defi",
       "nft_count": 1,
       "vp_pct_of_dao": 0.06035003017501509,
-      "nft_image_url": "https://i.stargaze-apis.com/bkgG1DlKOjsrabuj-Hg18OOi4eSwSaVcWBe9neeo9Yg/resize:fit:512:::/dpr:2/plain/ipfs://bafybeieiywmpsbw5pypqfjpjwowtgc5u5com5gryq5kxfw3rhdfllp257a/4.png",
+      "nft_image_url": null,
       "has_pfpk_profile": true
     },
     {
