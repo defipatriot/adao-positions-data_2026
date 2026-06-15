@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-14T01:00:25.426Z",
-  "capturedAtUnix": 1781398825426,
+  "capturedAt": "2026-06-15T01:00:31.173Z",
+  "capturedAtUnix": 1781485231173,
   "epoch": {
-    "number": 189,
-    "starts_at": "2026-06-08T00:00:00.000Z",
-    "ends_at": "2026-06-15T00:00:00.000Z",
-    "progress_pct": 86.31372900132274
+    "number": 190,
+    "starts_at": "2026-06-15T00:00:00.000Z",
+    "ends_at": "2026-06-22T00:00:00.000Z",
+    "progress_pct": 0.6003930224867724
   },
   "primary_source": "daodao_indexer",
   "total_members": 156,
@@ -706,7 +706,7 @@
       "name": "Cookso",
       "nft_count": 2,
       "vp_pct_of_dao": 0.12254901960784313,
-      "nft_image_url": "ipfs://bafkreif3e4ri5otfgon5pq6jceswlsmuvquqvgafsyzkzklzcxv5xgmwky",
+      "nft_image_url": "ipfs://bafybeia4nhuub3mshjejilpfuexqbrnd77jy33uhi6llvi6gxnawjn4siq/metadata.json",
       "has_pfpk_profile": true
     },
     {
