@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-06-23T16:09:44.675Z",
-  "capturedAtUnix": 1782230984675,
+  "capturedAt": "2026-06-23T16:18:58.978Z",
+  "capturedAtUnix": 1782231538978,
   "epoch": {
     "number": 191,
     "starts_at": "2026-06-22T00:00:00.000Z",
     "ends_at": "2026-06-29T00:00:00.000Z",
-    "progress_pct": 23.906198412698412
+    "progress_pct": 23.997851686507936
   },
   "primary_source": "daodao_indexer",
   "total_members": 156,
