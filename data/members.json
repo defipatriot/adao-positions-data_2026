@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "capturedAt": "2026-07-30T01:00:56.438Z",
-  "capturedAtUnix": 1785373256438,
+  "capturedAt": "2026-07-31T01:00:45.407Z",
+  "capturedAtUnix": 1785459645407,
   "epoch": {
     "number": 196,
     "starts_at": "2026-07-27T00:00:00.000Z",
     "ends_at": "2026-08-03T00:00:00.000Z",
-    "progress_pct": 43.461713128306876
+    "progress_pct": 57.745603339947095
   },
   "primary_source": "daodao_indexer",
   "total_members": 155,
@@ -1083,7 +1083,7 @@
       "nft_count": 1,
       "vp_pct_of_dao": 0.06131207847946045,
       "nft_image_url": null,
-      "has_pfpk_profile": false
+      "has_pfpk_profile": true
     },
     {
       "address": "terra1kkvmg6l545fjl67f44hx9ytyjurx4s2r9z8att",
